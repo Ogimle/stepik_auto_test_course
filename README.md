@@ -1,2 +1,3 @@
-# stepik_auto_test_course
-home work
+# Stepik homework
+
+Домашняя работа 3.1.8 "Лирическое отступление в Git"
